@@ -1,7 +1,7 @@
 {
     "name": "techjeffharris-utils", 
     "description": "handy utilties",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Jeff Harris <techjeffharris@gmail.com> (http://www.intangiblehost.net)",
     "repository": "https://github.com/techjeffharris/utils.git",
     "license": {
