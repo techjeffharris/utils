@@ -2,7 +2,11 @@
   "name": "techjeffharris-utils",
   "description": "handy utilties",
   "version": "1.3.0",
-  "author": "Jeff Harris <techjeffharris@gmail.com> (http://www.intangiblehost.net)",
+  "author": {
+    "name": "Jeff Harris",
+    "email": "techjeffharris@gmail.com",
+    "url": "http://intangiblehost.net"
+  },
   "repository": "https://github.com/techjeffharris/utils.git",
   "scripts": {
     "test": "mocha test/utils-test.js"
