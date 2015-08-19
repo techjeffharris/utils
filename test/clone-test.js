@@ -5,7 +5,7 @@ module.exports = function testClone () {
 
     var parent;
     var cloned;
-    var keys;q
+    var keys;
 
     it('should copy all of parents\' own properties into cloned', function () {
       parent = { 
