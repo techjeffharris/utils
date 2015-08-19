@@ -4,8 +4,18 @@
   "version": "1.3.0",
   "author": "Jeff Harris <techjeffharris@gmail.com> (http://www.intangiblehost.net)",
   "repository": "https://github.com/techjeffharris/utils.git",
+  "scripts": {
+    "test": "mocha test/utils-test.js"
+  },
   "license": {
     "type": "BSD",
     "file": "LICENSE"
+  },
+  "devDependencies": {
+    "coveralls": "2.x",
+    "istanbul": "0.x",
+    "mocha": "^2.2.5",
+    "mocha-lcov-reporter": "0.x",
+    "should": "^7.0.4"
   }
 }
